@@ -1,0 +1,14 @@
+The hexadecimal code for the colour with RGB values (0, 163, 108) is #00A36C. 
+
+When converted to a 0.0–1.0 RGB scale, the values are:
+Red: 0.0
+Green: 0.639 (or 0.64)
+Blue: 0.424 
+
+RGB Percentage Equivalent: RGB(0%, 63.9%, 42.4%) 
+
+This colour, known as a shade of Green or Jade, has the following properties:
+
+Hex: #00a36c
+RGB: (0, 163, 108)
+HSL: 159.8°, 100%, 32%
